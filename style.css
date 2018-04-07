@@ -1,0 +1,97 @@
+
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+    text-align: left;
+    padding-left: 40px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: semibold;
+    font-size: 20px;
+    text-align: left;
+    color: #033048;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.panel1 {
+    border: 1px solid #121212;
+    background-image: url("header_bg.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 300px;
+}
+
+.button {
+    height: 50px;
+    width: 200px;
+    background-color: #f9e42e;
+    border: 1px solid #121212;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center; 
+}
+
+.middle align {
+    margin: auto;
+}
+
+.panel2 {
+    font-family: 'Open Sans', sans-serif;
+    padding: 30px;
+}
+
+.panel3 {
+    text-align: center;
+}
+
+.panel4 {
+    background-color: #f9e42e;
+    border: 1px solid #121212;
+    font-size: 12px;
+}
+
+.panel5 {
+    font-size: 24px;
+    background-color: #121212;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #f9e42e;
+    text-align: center;
+}
+
+.amanda {
+    font-weight: bold;
+    font-size: 18px;
+    color: #f9e42e;
+}
+
+.copyright {
+    font-weight: bold;
+    font-size: 9px;
+    color: #606161;
+}
+
+.get{
+    font-size: 14px;
+    border: 5px;
+}
+.body {
+    max-width: 600px;
+    height: 1000px;
+    text-align: center;
+    border: 1px;
+    padding-left: 40px;
+}
