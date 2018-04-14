@@ -85,6 +85,8 @@ h3 {
 }
 
 .get{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
     font-size: 14px;
     border: 5px;
 }
